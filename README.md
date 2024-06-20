@@ -1,2 +1,2 @@
-# httpd-da
-Library Digital Assets httpd configuration
+# httpd-pa
+Library Preservation Assets httpd configuration
